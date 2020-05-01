@@ -1,2 +1,2 @@
-# Single-Photon-Mach-Zehnder-
-Just a bunch of programs I made regarding the Mach-Zehnder Interferometer
+# Single-Photon-Mach-Zehnder Interferometer
+## The Mach-Zehnder Interferometer is an important device often used in quantum information and experiments about the foundations of quantum theory, It's a central piece in what is known as "Interaction-Free" measurements, which is the theme of my master thesis, here I upload a couple programs I wrote to make some figures or to explian more clearly, It mainly concerns the "Interaction-Free" measurement setup with semitransparent objects, to obtain the better known case of a perfect absorber $\beta,n=0$
